@@ -3,6 +3,10 @@ a disturbance rejection-based solution to the problem of robust output regulatio
 
 Keywords—Output regulation, extended state observer, disturbance rejection, linear system, robustness
 
+
+refer to https://scholar.google.com/citations?user=-HRHoYoAAAAJ&hl=de
+
+
 [1] B. A. Francis and W. M. Wonham, “The internal model principle of control theory,” Automatica, vol. 12, no. 5, pp. 457–465, 1976.
 
 [2] B. Francis, O. A. Sebakhy, and W. M. Wonham, “Synthesis of multivariable regulators: The internal model principle,” Appl Math Optim, vol. 1, no. 1, pp. 64–86, 1974.
